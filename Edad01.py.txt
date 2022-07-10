@@ -1,1 +1,5 @@
 #Estamos bien
+
+import math as m
+import random as rnd
+import pandas as pnd
